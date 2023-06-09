@@ -19,7 +19,7 @@ body {
   color: var(--clr-light);
   font-weight: 700;
   font-size: 1.1rem;
-  background-color: lightseagreen ;
+  background-color: #1a2639 ;
 }
 
 .item-01 {
@@ -94,7 +94,7 @@ footer { background-color: #3e4a61; padding: 10px; text-align: center; color: #f
 .right { background-color: #3e4a61; float: left; width: 20%; padding: 15px; margin-top: 7px; text-align: center;}
 
         
-a:link    {   color: black;         background-color: transparent;   text-decoration: none}
+a:link    {   color: #737c8f;       background-color: transparent;   text-decoration: none}
 a:visited {   color: greenyellow;   background-color: transparent;   text-decoration: none}
 a:hover   {   color: red;           background-color: transparent;   text-decoration: underline}
 a:active  {   color: yellow;        background-color: transparent;   text-decoration: underline}
