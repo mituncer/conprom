@@ -87,11 +87,11 @@ footer { background-color: #3e4a61; padding: 10px; text-align: center; color: #f
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
 @media (max-width: 600px) { section {-webkit-flex-direction: column; flex-direction: column; } }
 
-.left { background-color: #e5e5e5; float: left; width: 20%; padding: 15px; margin-top: 7px; text-align: center;}
+.left { background-color: #e5e5e5; float: left; width: 20%; padding: 1vw; margin-top: 7px; text-align: center;}
 
 .main { float: left; width: 60%; padding: 0 20px;}
 
-.right { background-color: #3e4a61; float: left; width: 20%; padding: 15px; margin-top: 7px; text-align: center;}
+.right { background-color: #3e4a61; float: left; width: 20%; padding: 1vw; margin-top: 7px; text-align: center;}
 
         
 a:link    {   color: #737c8f;       background-color: transparent;   text-decoration: none}
