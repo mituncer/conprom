@@ -94,7 +94,7 @@ footer { background-color: #3e4a61; padding: 10px; text-align: center; color: #f
 .right { background-color: #3e4a61; float: left; width: 20%; padding: 1vw; margin-top: 7px; text-align: center;}
 
         
-a:link    {   color: HSL(221°, 11%, 51%) ;       background-color: transparent;   text-decoration: none}
+a:link    {   color: HSL(221°, 40%, 51%) ;       background-color: transparent;   text-decoration: none}
 a:visited {   color: HSL(84°, 80%, 80%);   background-color: transparent;   text-decoration: none}
 a:hover   {   color: red;           background-color: transparent;   text-decoration: underline}
 a:active  {   color: yellow;        background-color: transparent;   text-decoration: underline}
