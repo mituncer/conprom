@@ -95,7 +95,7 @@ footer { background-color: #3e4a61; padding: 10px; text-align: center; color: #f
 
         
 a:link    {   color: #737c8f;       background-color: transparent;   text-decoration: none}
-a:visited {   color: greenyellow;   background-color: transparent;   text-decoration: none}
+a:visited {   color: HSL(84°, 100%, 30%);   background-color: transparent;   text-decoration: none}
 a:hover   {   color: red;           background-color: transparent;   text-decoration: underline}
 a:active  {   color: yellow;        background-color: transparent;   text-decoration: underline}
 
